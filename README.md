@@ -9,7 +9,6 @@ In this project, I create a sample query for a Library booking app that stores y
 
 I have CREATE(ed) tables, INSERT(ed) columns and information as well creating a possible structure of a book store loan system that helps to track where the books are, name, author and the status together with the person that loans it.
 
-/*
 
 CREATE TABLE user (id INTEGER PRIMARY KEY,
     name TEXT,
